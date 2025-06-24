@@ -4,3 +4,4 @@ def abs_value(xyz):
     else:
         return -xyz
     
+print(abs_value(-37))
