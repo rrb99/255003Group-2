@@ -1,9 +1,9 @@
 #returns the absolute value of any number.
 def abs_value(num):
-    #if num is less than zero (negative) multiply it bu -1 to make it positive
-    if x < 0:
+    #if num is less than zero (negative) it gets multiplied by -1 to make it positive
+    if num < 0:
         return -num
-    # if num already postice stays the same
+    # if num already positive it stays the same
     else:
         return num
     
