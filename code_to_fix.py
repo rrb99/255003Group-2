@@ -7,6 +7,5 @@ def abs_value(x):
         return -x
     else:
         return x
-    
-abs_value(-3)
-    
+      
+print(abs_value(-37))
